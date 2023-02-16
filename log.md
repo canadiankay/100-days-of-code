@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+I keep procrastinating 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: February 13, 2023)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Although this isn't my official start date of coding, since I started FreeCodeCamp's Responsive Web Design course last week (I think on Feb9, 2023). As of right today, I am on "Learn CSS Colors by Building a set of colored markers."
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I've always known that I've found CSS and HTML pretty straightforward. I find that I've also always enjoyed it but for someone who's been doing visual programming, it's felt nice to get back into it. The refresher was definitely needed.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+<!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: February 14, 2023
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I began by doing a bunch of Javascript and Git activities that were part of LHL's Prep Work program so that I could refresh my mind on JS syntax and using the Command Line again. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:** I'm finding that this feels like second nature and I've truly missed writing JS code. Feels good to be back baby!
 
+### Day 3: February 15, 2023
 
-### Day 1: June 27, Monday
+**Today's Progress**: I started doing more JS and CLI practice work; more importantly, set up GitHub and VSCode on this new windows computer I recently got. I've also finished the section I was on in FreeCodeCamp's activity from Day 1.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** It's been a productive but tiring day. There's so much I want to learn and don't feel as though there's enough hours in the day. Perhaps it's just because I realize I've gotten so much slower at coding so I'm slowly adjusting.
